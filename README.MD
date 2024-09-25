@@ -1,5 +1,6 @@
 ## 🎯 ASL de exemplo do desafio proposto
 
+```json
 {
   "Comment": "An example of using Bedrock to chain prompts and their responses together.",
   "StartAt": "Invoke model with first prompt",
